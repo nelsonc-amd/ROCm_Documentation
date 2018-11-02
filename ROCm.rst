@@ -122,13 +122,13 @@ Quick Start Guide
 | In this Section there are useful items related to AMDGPU ISA assembler has been documented.
 
 | `ROCm-GDB <http://rocm-documentation.readthedocs.io/en/latest/ROCm_Tools/ROCm-Tools.html#rocm-gdb>`_
-| Complete Documentaion of ROCm-GDB tool has been Documented here.Installtion, Build steps and working of Debugger and API related to it has been documented.
+| Complete documentation of ROCm-GDB tool. Installation, build steps and usage of ROCm Debugger and API related to it.
 
 | `ROCm-Profiler <http://rocm-documentation.readthedocs.io/en/latest/ROCm_Tools/ROCm-Tools.html#rocm-profiler>`_
 | This section gives Details on Radeon Compute Profiler is a performance analysis tool, here we have details on how to clone and use it.
 
 | `CodeXL <http://rocm-documentation.readthedocs.io/en/latest/ROCm_Tools/ROCm-Tools.html#codexl>`_
-| This section provides details on CodeXL, a comprehensive tool suite. here Documentaion of Installation and builds and other details related to Codexl is done.
+| This section provides details on CodeXL, a comprehensive tool suite. here Documentaion of installation, builds and other details related to Codexl is done.
 
 | `GPUperfAPI <http://rocm-documentation.readthedocs.io/en/latest/ROCm_Tools/ROCm-Tools.html#gpuperfapi>`_
 | This section provieds details related to GPU Performance API. Content related to how to clone, system requiments and source code directory layout can be found.
